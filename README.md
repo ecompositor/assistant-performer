@@ -102,8 +102,5 @@ A Sequence to Standard MIDI File conversion function.
 <strong>scores</strong> - scores used by the files in the ap folder.<br />
 <br />
 
-James Ingram
-
-March 2013
 
 
