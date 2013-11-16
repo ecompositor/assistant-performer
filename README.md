@@ -44,8 +44,9 @@ This project is a work-in-progress having three main branches: 'master', 'dev', 
 http://james-ingram-act-two.de/open-source/publicAssistantPerformer/assistantPerformer.html
 
 The 'master' version is stable, but is possibly not the latest version of this project.<br />
-The 'dev' branch is the latest version of the web-based version of this project. It does not have a public test site.<br />
-The 'desktopdev' branch is used for developing a version of this project which is independent of the internet (i.e. it only uses files on the user's local computer). Being dependent on the internet is too unreliable in live concert situations.<br />
+The 'dev' branch is the latest version of the web-based version of this project.<br />
+The 'desktopdev' branch is used for developing a version of this project which is independent of the internet (i.e. it only uses files on the user's local computer). Being dependent on the internet is too dangerous in live concert situations.<br />
+The 'dev' and 'desktopdev' branches are too volatile to have public websites.<br />
 
 The folders contain code and code documentation as follows: 
 
